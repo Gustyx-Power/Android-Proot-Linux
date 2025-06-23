@@ -34,7 +34,7 @@ This is a unified Proot-based setup system for installing Linux distributions (l
 
 | Distribution | Status          | Desktop Support |
 | ------------ | --------------- | --------------- |
-| Debian       | ✅ Stable        | XFCE, KDE       |
+| Debian       | ⚠️ Experimental        | XFCE4, KDE(Broken)       |
 | Ubuntu       | 🕻 Planned       | XFCE,KDE,LXQT planned    |
 | Arch Linux   | 🕻 Planned      | TBD             |
 | Kali Linux   | 🕻 Planned      | TBD             |
